@@ -12,6 +12,13 @@ document.addEventListener('DOMContentLoaded', function(){
   
   })
 
+  function makeSmall() {
+      document.getElementById("veteran").setAttribute(
+          'style', 'transform:rotate(180deg)'
+
+      )
+  }
+
 
 
   alert("Welcome Veterans!!");
