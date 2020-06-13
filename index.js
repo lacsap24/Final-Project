@@ -6,6 +6,3 @@ function makeSmall() {
   ) ;
 }
 
-function myFunction() {
-    document.getElementById("veteran").innerHTML = "Hello World";
-  }
